@@ -5,9 +5,9 @@
   <subtitle>Love Coding, Enjoy Life</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://zhaoying.github.io/"/>
+  <link href="http://shuqinzhao.github.io/"/>
   <updated>2018-07-19T08:08:08.926Z</updated>
-  <id>http://zhaoying.github.io/</id>
+  <id>http://shuqinzhao.github.io/</id>
   
   <author>
     <name>zhaoying</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Webpack</title>
-    <link href="http://zhaoying.github.io/2018/07/19/webpack/"/>
-    <id>http://zhaoying.github.io/2018/07/19/webpack/</id>
+    <link href="http://shuqinzhao.github.io/2018/07/19/webpack/"/>
+    <id>http://shuqinzhao.github.io/2018/07/19/webpack/</id>
     <published>2018-07-19T07:47:33.000Z</published>
     <updated>2018-07-19T08:08:08.926Z</updated>
     
@@ -33,17 +33,17 @@
     
     </summary>
     
-      <category term="webpack" scheme="http://zhaoying.github.io/categories/webpack/"/>
+      <category term="webpack" scheme="http://shuqinzhao.github.io/categories/webpack/"/>
     
     
-      <category term="前端" scheme="http://zhaoying.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="http://shuqinzhao.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://zhaoying.github.io/2018/03/18/hello-world/"/>
-    <id>http://zhaoying.github.io/2018/03/18/hello-world/</id>
+    <link href="http://shuqinzhao.github.io/2018/03/18/hello-world/"/>
+    <id>http://shuqinzhao.github.io/2018/03/18/hello-world/</id>
     <published>2018-03-18T07:48:22.225Z</published>
     <updated>2018-07-19T07:53:13.183Z</updated>
     
